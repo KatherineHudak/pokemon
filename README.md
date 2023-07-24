@@ -20,8 +20,13 @@ Pokemon ndex, name, form, total, hp,attack,deffense, special attack, special def
 ** pokemon_abilities **
 Pokemon ndex, name and ability
 
+**pokemon_atler_form_type.csv**
+List of Pokémon alternate forms and their type
+
 pokemon_dex.csv
 List of Pokémon and the dex number from each game
+
+
 
 kanto_number, #red/blue/greeb/yello/letsgo / gen I
 joto_number, #gold/silver/crystal / gen II
